@@ -1,5 +1,3 @@
-# redrose-beauty-salon
-my website
 # 👋 Hi there! I'm Estrella Ropafadzo Makondora
 
 🎓 *Software Engineering Student* at *Bindura University of Science Education (BUSE)*  
